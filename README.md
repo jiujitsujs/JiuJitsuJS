@@ -1,6 +1,6 @@
 # JiuJitsuJS
 
-There is no other technique for solving problems when your body is in trouble than 
+There is no better technique for solving problems when your body is in trouble than 
 
 **Brazilian JiuJitsu**
 
