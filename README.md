@@ -6,7 +6,7 @@ There is no other technique for solving problems when your body is in trouble th
 
 <br>
 
-There is no other technique for solving problems when you need to build up a mobile app than 
+There is no other technique for solving problems when you need to build  *mobile apps* than 
 
 *JiuJistsuJS*
 
