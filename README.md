@@ -5,9 +5,8 @@
 
 <br>
 
-There is no better technique for solving problems when you need to build  **mobile apps** than 
 
-**JiuJistsuJS**
+**JiuJistsuJS** is the best technique and framework for solving problems when you need to build a **mobile app**
 
 <br>
 
