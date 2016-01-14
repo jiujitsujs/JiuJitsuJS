@@ -1,12 +1,12 @@
 # JiuJitsuJS
 
-There is no better technique for solving problems when your body is in trouble than 
+There is no better technique  than the self-defense martial art 
 
-**Brazilian JiuJitsu**
+**Brazilian JiuJitsu** is the best martial art technique for solving problems when you are smaller than your opponent or when your body is at risk 
 
 <br>
 
-There is no other technique for solving problems when you need to build  **mobile apps** than 
+There is no better technique for solving problems when you need to build  **mobile apps** than 
 
 **JiuJistsuJS**
 
