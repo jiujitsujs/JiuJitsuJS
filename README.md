@@ -8,8 +8,9 @@ There is no other technique for solving problems when your body is in trouble th
 
 There is no other technique for solving problems when you need to build up a mobile app than 
 
-*JiuJistsuJJS*
+*JiuJistsuJS*
 
+<br>
 
 **JiuJitsuJS is currently available at**
 
