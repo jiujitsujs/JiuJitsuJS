@@ -14,4 +14,4 @@ There is no other technique for solving problems when you need to build  **mobil
 
 **JiuJitsuJS is currently available at**
 
-http://www.wakanda.io
+[http://www.wakanda.io](http://bit.ly/1OdlW3j)
