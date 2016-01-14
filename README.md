@@ -2,13 +2,13 @@
 
 There is no other technique for solving problems when your body is in trouble than 
 
-*Brazilian JiuJitsu*
+**Brazilian JiuJitsu**
 
 <br>
 
-There is no other technique for solving problems when you need to build  *mobile apps* than 
+There is no other technique for solving problems when you need to build  **mobile apps** than 
 
-*JiuJistsuJS*
+**JiuJistsuJS**
 
 <br>
 
